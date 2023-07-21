@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abbas Imran</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Vibranium**
+- 🔭 I’m currently working on **My Self**
 
 - 🌱 I’m currently learning **Next Js**
 
