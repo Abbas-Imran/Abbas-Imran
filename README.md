@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abbas Imran</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
-- 🔭 I’m currently working on **My Self**
+- 🔭 I ❤️ to develop **Full Stack Web Applications**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m am working on <a href="https://axiom360solutions.com/">Axioms</a>
 
-- 👨‍💻 All of my projects are available at [https://abbasimran.netlify.app/](https://abbasimran.netlify.app/)
-
-- 💬 Ask me about **MERN stack**
+- 💬 I am open for collaboration on **MERN stack projects**
 
 - 📫 How to reach me **balochabbas241@gmail.com**
 
