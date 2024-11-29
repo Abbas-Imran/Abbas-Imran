@@ -2,7 +2,7 @@
 <h3 align="center">💻 Passionate Full-Stack Developer | 🚀 Space Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F70C0C&background=FFFFFF00&width=435&lines=Crafting+Ideas+Into+Code;Turning+Designs+Into+Reality;Delivering+Pixel-Perfect+Apps" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2EA886&background=FFFFFF00&width=435&lines=Crafting+Ideas+Into+Code;Turning+Designs+Into+Reality;Delivering+Pixel-Perfect+Apps" alt="Typing Animation" />
 </p>
 
 ---
@@ -76,7 +76,7 @@ An AI-based personalized interview preparation tool with flexible payments and i
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abbas-Imran&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abbas-Imran&theme=dark&hide_border=true" alt="Abbas-Imran's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbas-Imran&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
