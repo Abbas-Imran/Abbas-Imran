@@ -82,4 +82,4 @@ An AI-based personalized interview preparation tool with flexible payments and i
 
 ---
 
-✨ **"Turning ideas into reality, one line of code at a time!"**
+✨ **"Turning ideas into reality, one line of code at a time"**
