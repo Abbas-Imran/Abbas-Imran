@@ -8,6 +8,7 @@
 ---
 
 ### 🌟 About Me
+
 - 🔭 **I love creating** full-stack web applications with clean, scalable code.
 - 🌱 **Currently working at:** [SeedInov](https://seedinov.com/)
 - 💬 **Open to:** Collaborations on MERN stack projects or exciting new ideas.
@@ -15,6 +16,7 @@
 - 📫 **Reach me at:** [balochabbas241@gmail.com](mailto:balochabbas241@gmail.com)
 
 ---
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjU3NDA4dmFudTZjcTlodm1xeTAyaXdrczlxemJrbjR0cmU3NjJhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6heBQSjt2IoA8/giphy.gif" />
 
 ### 🛠️ **Tech Stack**
 #### 💻 **Frontend**
